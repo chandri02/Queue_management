@@ -128,7 +128,7 @@ function App() {
       <AppBar position="fixed" style={{ backgroundColor: '#00008B' }}>
         <Toolbar>
           <Typography variant="h6" style={{ flexGrow: 1 }}>
-            Post Office Service Monitoring Dashboard
+            Live Queue Monitoring Dashboard
           </Typography>
           {isLoggedIn && (
             <Box display="flex" alignItems="center">
